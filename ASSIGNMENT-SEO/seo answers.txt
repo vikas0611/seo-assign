@@ -1,0 +1,42 @@
+       		Assignment -  SEO
+
+
+1-	What is SEO and explain the importance of SEO?
+
+
+Ans- SEO, or Search Engine Optimization, is a digital marketing strategy that involves optimizing your website to improve its visibility on search engine results pages (SERPs). 
+It includes keyword research, on-page optimization, quality content creation, technical enhancements, and building authority through backlinks.
+The importance of SEO lies in its ability to increase organic website traffic. When your site ranks higher on search engines, it attracts more relevant visitors, which can lead to higher conversions and revenue. 
+SEO also builds credibility and trust, as top-ranking sites are seen as authoritative.
+It's a cost-effective marketing method, ensuring a competitive edge, measurable results, and adaptability to changing algorithms and user trends.
+In today's online-driven world, SEO is essential for businesses and individuals looking to establish a strong online presence and reach their target audience effectively.
+
+\
+2-	Create an HTML document with appropriate <title> and <meta> tag for SEO optimization. Ensure the title is descriptive and the meta description is concise.
+
+Ans- SOLUTION is in attached folders: 
+			As well as in this link https://github.com/vikas0611/SEO
+
+3-	What are the Benefits of Using meta tags?
+
+Ans- Meta tags provide several benefits for webpages and SEO:
+1.	Improved Search Engine Visibility: Meta tags, especially the meta description and meta keywords, help search engines understand and rank your content, enhancing your website's visibility in search results.
+2.	Enhanced User Experience: A well-crafted meta description can entice users to click on your link by providing a concise preview of your content.
+3.	Categorization: Meta tags help categorize and organize your content, making it easier for search engines to index and serve relevant results to users.
+4.	Social Sharing: Some meta tags (e.g., Open Graph tags) control how your content appears when shared on social media, ensuring a more appealing presentation.
+5.	Accessibility: Meta tags can include accessibility information, improving your website's usability for all users.
+Overall, meta tags play a vital role in SEO, user engagement, and content organization.
+
+				
+4-	Create an HTML document that properly incorporates semantic elements like <header>,<article>, <section>,or <nav> to improve SEO and document structure
+Ans- Solution is in given link as well as attached folder:
+				https://github.com/vikas0611/header
+
+5- Define Favicon and give an illustrative example.
+
+Ans- A favicon is a tiny, graphical icon associated with a website, usually displayed in web browser tabs, bookmarks, and shortcuts.
+It acts as a visual identifier for the site, enhancing brand recognition and user experience.
+For instance, the "Google" favicon is a small, colorful "G" that appears in your browser tab when you visit google.com, making it easy to spot among multiple open tabs.
+Favicon images are typically small and square, usually 16x16 or 32x32 pixels, and are saved in the .ico or .png format.
+
+
